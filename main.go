@@ -1,7 +1,7 @@
 package main
 
 import (
-	"logger/logger"
+	"log-operator/logger"
 
 	"github.com/sirupsen/logrus"
 )
