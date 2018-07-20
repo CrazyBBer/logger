@@ -79,7 +79,13 @@
 			"path": "golang.org/x/sys/windows",
 			"revision": "a9e25c09b96b8870693763211309e213c6ef299d",
 			"revisionTime": "2018-06-12T14:16:36Z"
+		},
+		{
+			"checksumSHA1": "ONHPOSFWva4cWgssoYjD6iGR8OQ=",
+			"path": "honeywell.com/husplus/common-pkg/log",
+			"revision": "36a4417c6a28049e98c714b90b4b6abcdc1f9d2f",
+			"revisionTime": "2018-07-18T03:31:38Z"
 		}
 	],
-	"rootPath": "logger"
+	"rootPath": "log-operator"
 }

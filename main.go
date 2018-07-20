@@ -1,7 +1,7 @@
 package main
 
 import (
-	"log-operator/logger"
+	"honeywell.com/husplus/common-pkg/log"
 
 	"github.com/sirupsen/logrus"
 )
